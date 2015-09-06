@@ -1,6 +1,6 @@
 ﻿{
 	"version": "1.2",
 	"url": "https://github.com/cmderdev/cmder/releases/download/v1.2/cmder.zip",
-	"hash":, "86b33b8c47ef575b9064928f2fd0737219d59fb8786dab1a5974a992d6a86fac",
+	"hash": "86b33b8c47ef575b9064928f2fd0737219d59fb8786dab1a5974a992d6a86fac",
 	"bin": "Cmder.exe"
 }
